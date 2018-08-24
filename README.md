@@ -9,11 +9,11 @@ https://discord.gg/j9GP6Zz
 
 
 # Features:
-Easy to use, just add to your server collection
-Auto removes cases after 120 seconds
-Configurable colors
-Staff can use admin chat without making a case
-Adds new case messages to their old case if it hasn't been closed, this stops spam
+* Easy to use, just add to your server collection
+* Auto removes cases after 120 seconds
+* Configurable colors
+* Staff can use admin chat without making a case
+* Adds new case messages to their old case if it hasn't been closed, this stops spam
 
 # How to add it to your server:
 Download the addon and decompile it
