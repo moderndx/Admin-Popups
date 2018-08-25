@@ -16,7 +16,7 @@ https://discord.gg/j9GP6Zz
 * Adds new case messages to their old case if it hasn't been closed, this stops spam
 
 # How to add it to your server:
-* Download the addon and decompile it
+* Download the addon
 * Put it in your addons folder on the server
 * Customize the config file if needed
 * Restart your server
